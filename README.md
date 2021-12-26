@@ -1,1 +1,1 @@
-# about-AIi
+# about-AI
